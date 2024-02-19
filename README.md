@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>MafUserbot Project</title>
+<head></head>
 </head>
 <body>
     <h1 style="color: #4CAF50;">MafUserbot Project</h1>
